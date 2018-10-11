@@ -1,0 +1,5 @@
+c:\users\shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.1\Sorting\bin\Debug\Sorting.dll
+c:\users\shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.1\Sorting\bin\Debug\Sorting.pdb
+c:\users\shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.1\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+c:\users\shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.1\Sorting\obj\Debug\Sorting.dll
+c:\users\shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.1\Sorting\obj\Debug\Sorting.pdb
