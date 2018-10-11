@@ -1,0 +1,8 @@
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleAppGAC\bin\Debug\ConsoleAppGAC.exe.config
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleAppGAC\bin\Debug\ConsoleAppGAC.exe
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleAppGAC\bin\Debug\ConsoleAppGAC.pdb
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleAppGAC\bin\Debug\ClassLibraryUniversityStrongName.dll
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleAppGAC\bin\Debug\ClassLibraryUniversityStrongName.pdb
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleAppGAC\obj\Debug\ConsoleAppGAC.csprojResolveAssemblyReference.cache
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleAppGAC\obj\Debug\ConsoleAppGAC.exe
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleAppGAC\obj\Debug\ConsoleAppGAC.pdb

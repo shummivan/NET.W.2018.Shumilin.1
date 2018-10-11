@@ -1,0 +1,10 @@
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleApp\bin\Debug\ClassLibraryUniversity.dll
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleApp\bin\Debug\ClassLibraryUniversity.pdb
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleApp\bin\Debug\ClassLibraryUniversityStrongName.dll
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ConsoleApp\bin\Debug\ClassLibraryUniversityStrongName.pdb

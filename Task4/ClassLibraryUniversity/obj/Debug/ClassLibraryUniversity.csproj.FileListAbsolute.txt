@@ -1,0 +1,5 @@
+c:\users\shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ClassLibraryUniversity\bin\Debug\ClassLibraryUniversity.dll
+c:\users\shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ClassLibraryUniversity\bin\Debug\ClassLibraryUniversity.pdb
+c:\users\shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ClassLibraryUniversity\obj\Debug\ClassLibraryUniversity.csprojResolveAssemblyReference.cache
+c:\users\shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ClassLibraryUniversity\obj\Debug\ClassLibraryUniversity.dll
+c:\users\shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ClassLibraryUniversity\obj\Debug\ClassLibraryUniversity.pdb

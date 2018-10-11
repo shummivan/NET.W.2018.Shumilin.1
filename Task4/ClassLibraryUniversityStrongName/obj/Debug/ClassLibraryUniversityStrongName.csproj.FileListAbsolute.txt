@@ -1,0 +1,4 @@
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ClassLibraryUniversityStrongName\bin\Debug\ClassLibraryUniversityStrongName.dll
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ClassLibraryUniversityStrongName\bin\Debug\ClassLibraryUniversityStrongName.pdb
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ClassLibraryUniversityStrongName\obj\Debug\ClassLibraryUniversityStrongName.dll
+C:\Users\Shumilin\documents\visual studio 2017\Projects\NET.W.2018.Shumilin.4\ClassLibraryUniversityStrongName\obj\Debug\ClassLibraryUniversityStrongName.pdb
